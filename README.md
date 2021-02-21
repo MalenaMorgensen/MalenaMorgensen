@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malenamorgensen&show_icons=true&theme=radical)](https://github.com/malenamorgensen/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malenamorgensen&show_icons=true&theme=dracula)](https://github.com/malenamorgensen/github-readme-stats)
 
 <!--
 **MalenaMorgensen/MalenaMorgensen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
