@@ -5,6 +5,8 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MalenaMorgensen&v=2)](https://github.com/malenamorgensen/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=malenamorgensen&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=malenamorgensen&color=red)
 
 <!--
