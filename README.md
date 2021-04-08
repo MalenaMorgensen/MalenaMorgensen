@@ -5,7 +5,7 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MalenaMorgensen&v=2)](https://github.com/malenamorgensen/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=malenamorgensen&color=red)
+![GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=malenamorgensen&color=red)
 
 <!--
 **MalenaMorgensen/MalenaMorgensen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
